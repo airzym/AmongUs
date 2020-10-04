@@ -40,7 +40,7 @@ Pressing the button will also reset the imposters kill cool down.
 
 ## Special activities (???)
 
-activities you anyonecan do on each map
+activities you anyone can do on each map
 
 ### The skeld
 
