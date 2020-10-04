@@ -14,7 +14,7 @@ Visible tasks are tasks that can be seen by another player to verify that the pe
 
 ### Polus
 
-medbay
+2 visible tasks: medbay scanner and turrets
 
 ## Vents
 
