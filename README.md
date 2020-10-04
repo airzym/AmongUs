@@ -27,7 +27,9 @@ Vent from shields goes to the lower one in nav.
 Vent from weapons goes to the upper one in nav.
 Vent from cafeteria goes to admin and corridor near nav.
 
-Vents on Mira hq and polus go to all other vents.
+### Mira HQ
+
+all vents go to all other vents.
 
 ## Emergency button
 
