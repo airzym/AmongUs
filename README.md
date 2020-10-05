@@ -1,5 +1,12 @@
 # AmongUs
 
+## Crewmate 
+Crewmates have a list of tasks they have to complete, if all crewmates complete their tasks they win.
+**If a crewmate dies they still need to complete their tasks**
+
+## imposter
+Kill everyone.
+
 ## Visible tasks
 
 Visible tasks are tasks that can be seen by another player to verify that the person on the task is innocent.
