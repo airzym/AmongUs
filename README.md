@@ -4,12 +4,12 @@
 Crewmates have a list of tasks they have to complete, if all crewmates complete their tasks they win.
 **If a crewmate dies they still need to complete their tasks**
 
-## imposter
+## Imposter
 Kill everyone. If you are not the imposter, it's Scootio
 
 ## Maps
 
-### skeld
+### Skeld
 ![skeld](https://cdn.discordapp.com/attachments/756590933130215594/756591114211033129/image.png)
 
 ### Mira HQ
@@ -17,15 +17,16 @@ Kill everyone. If you are not the imposter, it's Scootio
 
 ### Polus
 ![polus](https://i.redd.it/e7zqd74cfwi51.jpg)
+
 ## Visible tasks
 
 Visible tasks are tasks that can be seen by another player to verify that the person on the task is innocent.
 
-### The skeld
+### The Skeld
 
 4 visible tasks: medbay scanner, turrets in weapons and rubbish shoot in storage which will always be visable. As well as shields which will only be visable the first time someone does it.
 
-### Mira hq
+### Mira HQ
 
 1 visible task: medbay scanner.
 
@@ -55,11 +56,11 @@ This can be used by each player one time.
 If you see something suspicious like someone venting you can press this button and tell everyone what you saw.
 Pressing the button will also reset the imposters kill cool down.
 
-## Special activities (???)
+## Special activities
 
-activities you anyone can do on each map
+activities anyone can do on each map
 
-### The skeld
+### The Skeld
 
 In the admin room you can approach the left side of the table at which point you will get a prompt to use the table, this will show you a map of how many people are in each room. It only shows rooms so will not show you people is in corridors. This is can be useful to use because if someone hasn't left a room for a long time it might be because they are dead, so you can go and check up on them.
 
