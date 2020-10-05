@@ -7,6 +7,16 @@ Crewmates have a list of tasks they have to complete, if all crewmates complete 
 ## imposter
 Kill everyone.
 
+##Maps
+
+### skeld
+![skeld](https://cdn.discordapp.com/attachments/756590933130215594/756591114211033129/image.png)
+
+### Mira HQ
+![Mirahq](https://preview.redd.it/wfwl3i60iej51.jpg?width=3600&format=pjpg&auto=webp&s=a82e10162c1cb1d6b87d2645501564ff4ce9ce95)
+
+### Polus
+![polus](https://i.redd.it/e7zqd74cfwi51.jpg)
 ## Visible tasks
 
 Visible tasks are tasks that can be seen by another player to verify that the person on the task is innocent.
