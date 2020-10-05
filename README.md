@@ -5,7 +5,7 @@ Crewmates have a list of tasks they have to complete, if all crewmates complete 
 **If a crewmate dies they still need to complete their tasks**
 
 ## imposter
-Kill everyone.
+Kill everyone. If you are not the imposter, it's Scootio
 
 ## Maps
 
