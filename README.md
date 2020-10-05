@@ -7,7 +7,7 @@ Crewmates have a list of tasks they have to complete, if all crewmates complete 
 ## imposter
 Kill everyone.
 
-##Maps
+## Maps
 
 ### skeld
 ![skeld](https://cdn.discordapp.com/attachments/756590933130215594/756591114211033129/image.png)
