@@ -34,6 +34,22 @@ Visible tasks are tasks that can be seen by another player to verify that the pe
 
 2 visible tasks: medbay scanner and turrets
 
+## Common Tasks
+
+Common tasks are tasks everyone will have. If players start doing these tasks then everyone will have them. This is important for the imposters to know as if they see everyone doing a common task, they should join in. On the flip side, if the crew see someone doing a common task when they themselves don't have the common task, then they will likely be the imposter.
+
+### The Skeld
+
+2 Common tasks: Fix Wiring and Swipe Card
+
+### Mira HQ
+
+2 Common tasks: Fix Wiring and Enter ID Code
+
+### Polus
+
+4 Common tasks: Fix Wiring, Scan Boarding Pass, Swipe Card and Scan Boarding Pass
+
 ## Vents
 
 Vents can only be used by imposters, if you see someone jump in or out of one they are definitely an imposter.
@@ -115,3 +131,11 @@ O2 is only available on The Skeld and Mira HQ. This works similarly to reactor. 
 ### Doors
 
 Doors are only available in The Skeld and Polus. In The Skeld, when doors are closed they will reopen on a timer. In Polus, the doors need to be opened manually by flicking all of the switches to the same side (the lighter red side).
+
+## Hide & Seek Rules
+
+Hide & Seek is a different rule set. There is only 1 imposter. The imposter vision is reduced down to 0.25x and the crewmate vision is increased to 5x. This means the crew will have maximum vision but the imposter won't be able to see anything. The tasks will all be short and number of tasks and the kill cooldown will be adjusted for the number of players.
+At the start of the game, the imposter needs to wait until they can disable comms before moving. Crewmates can't fix comms until they know there are only 4 players left. Once comms are fixed, no other sabotages can be called.
+The goal is for the 1 imposter to kill all crewmates before the crewmates complete all of their tasks. These are the only two ways to win.
+Crewmates can report bodies to check to see how many people are left but voting must be skipped, and can also report to reset the kill cooldown. Imposters can also report bodies to reset everyone back to spawn if they lose track.
+Unlike the standard game, mics don't need to be muted and the imposter can tell people that they're the imposter, as can the crew. Dead players shouldn't warn other players about where the imposter is.
