@@ -91,7 +91,7 @@ In the right-side Office room, you can approach the right-hand monitor which wil
 In the Security room, there is a wall of cameras. You can only view one camera at once. There are 4 in total - outside lab, outside electrical, outside left office, outside right office.
 As with the cameras on The Skeld, they will see everything fully even when the lights are out.
 
-### Sabotages
+## Sabotages
 
 Along with killing and vents, Sabotages are one of the most important aspects of being a good imposter. Whilst a Sabotage is in progress, an emergency meeting can't be called (an exception to this are doors, which are just allow the imposters to separate people). Imposters can call Sabotages from anywhere on the map from their Sabotage map, and they are able to interact and fix the Sabotages to try and avoid suspicion. All Sabotages (excluding doors) share a cooldown so one sabotage cannot be called immediately after another. Doors have their own individual cooldown, so all doors can be closed as and when the imposter would like, but that door will have a cooldown once it has reopened.
 
