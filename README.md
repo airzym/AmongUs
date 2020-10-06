@@ -31,7 +31,7 @@
   * [Lights](#lights)
   * [O2](#o2)
   * [Doors](#doors)
-- [Hide & Seek Rules](#hide-&-seek-rules)
+- [Hide & Seek Rules](#hide-and-seek-rules)
 
 ## Crewmate
 
@@ -170,7 +170,7 @@ O2 is only available on The Skeld and Mira HQ. This works similarly to reactor. 
 
 Doors are only available in The Skeld and Polus. In The Skeld, when doors are closed they will reopen on a timer. In Polus, the doors need to be opened manually by flicking all of the switches to the same side (the lighter red side).
 
-## Hide & Seek Rules
+## Hide and Seek Rules
 
 Hide & Seek is a different rule set. There is only 1 imposter. The imposter vision is reduced down to 0.25x and the crewmate vision is increased to 5x. This means the crew will have maximum vision but the imposter won't be able to see anything. The tasks will all be short and number of tasks and the kill cooldown will be adjusted for the number of players.
 At the start of the game, the imposter needs to wait until they can disable comms before moving. Crewmates can't fix comms until they know there are only 4 players left. Once comms are fixed, no other sabotages can be called.
