@@ -111,7 +111,7 @@ The last set go from left side reactor to right side reactor (so just either sid
 ## Emergency button
 
 This is the big button in cafeteria, it calls a meeting so everyone can chat.
-This can be used by each player one time.
+This can be used by each player **one** time.
 If you see something suspicious like someone venting you can press this button and tell everyone what you saw.
 Pressing the button will also reset the imposters kill cool down.
 
@@ -125,6 +125,7 @@ In the admin room you can approach the left side of the table at which point you
 
 In the security room you can approach the security cameras and view them. There are 4 of them dotted around the map.
 Outside nav, outside admin outside the security room and one outside medbay.
+
 There cameras will have a red light flash on them if they are in use, so imposters should pay attention to if someone is watching when they make a kill.
 Cameras will see everything fully even when the lights are out.
 
@@ -133,7 +134,9 @@ Cameras will see everything fully even when the lights are out.
 In the Admin room, you can approach the large table in the middle. This is the same as the Admin table in The Skeld.
 
 In the Communications room, there is a monitor on the top right. If you view this, you can view the sensor logs. Each time a player passes into or out of the Y-shaped corridor (at the points where flooring changes to/from a glass floor) there is a sensor. You can see if you have passed it as when you pass over it the sensor will flash.
+
 You can use the sensors to question people's pathing. If for example, you see a player in Reactor and you leave but they stay. If you check the logs and see that player pass the North sensor, without first passing the South West sensor, then you know the likelihood is that this person vented across - so this can be used to the crewmates advantage. There is a 5 second cooldown on each sensor, so if two people cross them at the same time, or one shortly after the other, it may only log one person passing through. The imposter can use this to their advantage.
+
 The logs only show the last 20 triggers, but they do persist from round to round.
 
 ### Polus
@@ -143,6 +146,7 @@ In the Admin room, you can approach either side of the table above the decontami
 In the right-side Office room, you can approach the right-hand monitor which will show you the vitals of each player. Any player alive with display a green "OK" vital line. Any player who dies within the round (between meetings) will display in red as "DEAD" if someone appears as "DEAD" you know they've been killed since the last time everyone discussed. If a player died in a previous round (before the last meeting) they will display in black with the text "D/C".
 
 In the Security room, there is a wall of cameras. You can only view one camera at once. There are 4 in total - outside lab, outside electrical, outside left office, outside right office.
+
 As with the cameras on The Skeld, they will see everything fully even when the lights are out.
 
 ## Sabotages
@@ -156,6 +160,7 @@ Every level has a reactor. When the reactor meltdown is called, the players have
 ### Disable Comms
 
 Every level has the ability to disable Comms as well. In The Skeld and Polus, this is the same. This will display as a radio and you have to turn the dial to make the radio frequency on the right hand side of the dial the same as the left hand side. On Mira HQ, there are two tables to fix Comms. Each table as a device with a code on it and a keypad. The code on the device has to be entered into the keypad. The device code will reset after a short amount of time. Both of these have to be done in quick succession of each other to turn Comms back on.
+
 Whilst Comms are disabled, crewmates won't be able to see where their tasks are on their map, they won't be able to view security cameras/sensor logs, the admin table, vitals or call an emergency meeting.
 
 ### Lights
@@ -173,7 +178,10 @@ Doors are only available in The Skeld and Polus. In The Skeld, when doors are cl
 ## Hide and Seek Rules
 
 Hide & Seek is a different rule set. There is only 1 imposter. The imposter vision is reduced down to 0.25x and the crewmate vision is increased to 5x. This means the crew will have maximum vision but the imposter won't be able to see anything. The tasks will all be short and number of tasks and the kill cooldown will be adjusted for the number of players.
+
 At the start of the game, the imposter needs to wait until they can disable comms before moving. Crewmates can't fix comms until they know there are only 4 players left. Once comms are fixed, no other sabotages can be called.
+
 The goal is for the 1 imposter to kill all crewmates before the crewmates complete all of their tasks. These are the only two ways to win.
 Crewmates can report bodies to check to see how many people are left but voting must be skipped, and can also report to reset the kill cooldown. Imposters can also report bodies to reset everyone back to spawn if they lose track.
+
 Unlike the standard game, mics don't need to be muted and the imposter can tell people that they're the imposter, as can the crew. Dead players shouldn't warn other players about where the imposter is.
